@@ -1,0 +1,23 @@
+body {
+	background: url("../imgs/pic.jpg");
+	background-size: cover;
+}
+h1 {
+	color: hotpink;
+	text-align: center;
+	border: white solid 5px
+	margin-top: 100px;
+}
+.KIPCCUL1 {
+	width: 50px;
+	height: 50px;
+}
+.enter-btn {
+	font-size: 20;
+	position: relative;
+	top: 15px;
+}
+
+.title {
+	font-size: 16
+}
